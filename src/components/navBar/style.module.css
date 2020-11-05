@@ -12,3 +12,13 @@
     margin: 15px;
     margin-left: 40px;
 }
+
+.optionsIcon {
+    margin-top: 18px;
+    margin-right: 20px;
+    font-size: 33px;
+}
+
+.optionsIcon:hover {
+    opacity: 0.8;
+}
