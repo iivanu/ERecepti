@@ -1,9 +1,13 @@
 import React from "react"
 
+import NavBar from '../components/navBar/index.js'
+import Styles from './style.module.css'
 
 const IndexPage = () => {
   return(
-    <div><p>f6</p></div>
+    <div className={Styles.IndexPage}>
+      <NavBar />
+    </div>
   )
 }
 
