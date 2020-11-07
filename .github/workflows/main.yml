@@ -1,0 +1,15 @@
+name: Gatsby build
+
+on: [push]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v1
+    - name: Npm install
+      run: npm install
+    - name: Gatsby build
+      run: gatsby build
