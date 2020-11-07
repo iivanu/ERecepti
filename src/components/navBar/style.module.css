@@ -1,0 +1,24 @@
+.navBar {
+    height: 70px;
+    background-color: #5D5AEE;  
+    display: flex;
+    flex-direction: row;
+}
+
+.appName {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    margin: 15px;
+    margin-left: 40px;
+}
+
+.optionsIcon {
+    margin-top: 18px;
+    margin-right: 20px;
+    font-size: 33px;
+}
+
+.optionsIcon:hover {
+    opacity: 0.8;
+}
