@@ -1,0 +1,14 @@
+.recipeList {
+    display: flex;
+    flex-direction: row;
+    background-image: linear-gradient(to right, #e0ebff, #eaefff, #f2f4ff, #f9f9ff, #ffffff);
+    width: 65%;
+    height: 200px;
+    border-radius: 15px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
