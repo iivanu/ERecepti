@@ -11,11 +11,6 @@ const IndexPage = () => {
       <NavBar />
       <TopRecipeBar />
       <RecipeList />
-      <RecipeList />
-      <RecipeList />
-      <RecipeList />
-      <RecipeList />
-      <RecipeList />
     </div>
   )
 }
