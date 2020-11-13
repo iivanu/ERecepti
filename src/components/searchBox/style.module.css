@@ -1,9 +1,10 @@
 .searchBox {
     height: 30px;
     width: 250px;
-    border-radius: 12px;
+    border-radius: 25px;
     border: white;
     padding: 5px;
+    padding-left: 10px;
 }
 
 .container {
