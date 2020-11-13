@@ -2,6 +2,7 @@ import React from "react"
 
 import NavBar from '../components/navBar/index.js'
 import TopRecipeBar from '../components/topRecipeBar/index.js'
+import RecipeList from '../components/recipeList/index.js'
 import Styles from './style.module.css'
 
 const IndexPage = () => {
@@ -9,6 +10,7 @@ const IndexPage = () => {
     <div className={Styles.IndexPage}>
       <NavBar />
       <TopRecipeBar />
+      <RecipeList />
     </div>
   )
 }
