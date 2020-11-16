@@ -9,10 +9,11 @@
 
 .checkOut {
     margin: auto 35px;
-    height: 60%;
+    height: 100px;
     border-radius: 15px;
     background-color: #5D5AEE;
     width: 17%;
+    min-width: 235px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -21,7 +22,8 @@
 .textParagraph {
     color: white;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
+    font-size: 98%;
+    text-align: center;
 }
 
 .recipeList {
