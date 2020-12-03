@@ -17,4 +17,4 @@ b) Build site
 4. Data is stored in public folder of the project
 
 # Current status
-![alt text](https://imgur.com/XwtGqgO.jpg)
+![alt text](https://i.imgur.com/B3Cwt60.png)

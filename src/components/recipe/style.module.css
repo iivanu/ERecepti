@@ -1,7 +1,6 @@
 .recipe {
     display: flex;
     flex-direction: row;
-    background-image: linear-gradient(to right, #e0ebff, #eaefff, #f2f4ff, #f9f9ff, #ffffff);
     width: 50%;
     height: 200px;
     border-radius: 15px;
