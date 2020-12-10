@@ -15,6 +15,3 @@ b) Build site
 2. npm install
 3. gatsby build
 4. Data is stored in public folder of the project
-
-# Current status
-![alt text](https://i.imgur.com/B3Cwt60.png)
