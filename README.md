@@ -1,7 +1,10 @@
 # eRecipe
 Website for Human Computer Interaction course
+Project is still in Figma phase
 
 Link on Netify: https://erecipe.netlify.app
+
+Link on Figma: https://www.figma.com/file/PluHlQUBrIJEhJuMjeYFn4/?node-id=393%3A2
 
 # Usage
 a) Debuging
